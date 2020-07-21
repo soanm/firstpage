@@ -29,9 +29,9 @@ h1{
     width:0;
     position: absolute;
     height:2px;
-    left:20px;
+    left:0px;
     top:110%;
-    border-bottom:2px solid black;
+    border-bottom:2px solid white;
     transition:all 0.2s linear;
     clear:both;
 }
